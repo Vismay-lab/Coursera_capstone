@@ -1,2 +1,2 @@
 # Coursera_capstone
-Project notebook
+Project notebook and data warehouse project
